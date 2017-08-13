@@ -1,0 +1,10 @@
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\obj\Release\TestFrameWork.csprojResolveAssemblyReference.cache
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\TestFrameWork.exe.config
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\TestFrameWork.exe
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\TestFrameWork.pdb
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\WebDriver.dll
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\WebDriver.xml
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\obj\Release\TestFrameWork.exe
+c:\users\anahit\documents\visual studio 2017\Projects\TestFrameWork\TestFrameWork\obj\Release\TestFrameWork.pdb
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\nunit.framework.dll
+C:\Users\Anahit\Documents\Visual Studio 2017\Projects\TestFrameWork\TestFrameWork\bin\Release\nunit.framework.xml
